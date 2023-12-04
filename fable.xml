@@ -12,6 +12,7 @@
     </page>
         <page background="ingresso_comprdo.jpeg">
         <agent x="0" y="480" text="Parabéns! Você ajudou o Vitor a comprar o seu ingresso." color="black" on-touch="_NEXT_PAGE"/>
+        <agent x="0" y="480" text="Você ajudou o Vitor a comprar o seu ingresso." color="black" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="airport.jpg">
         <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
