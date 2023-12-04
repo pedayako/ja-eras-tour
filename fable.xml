@@ -19,6 +19,7 @@
         <agent x="145" y="430" text="Ajude o Vitor a Embarcar" color="orangered" font-size="20"/>
         <agent x="100" y="380" text="Você deverá arrastar o Vitor até o avião para decolar" color="orangered" font-size="20"/>
         <agent x="125" y="27" text="Clique aqui para prosseguir" color="white" font-size="20" on-touch="_NEXT_PAGE"/>
+        <agent x="350" y="150" width="150" height="100" img="pixel-man.png" draggable="true"/>
     </page>
     
     <page background="airport.jpg">
