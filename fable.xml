@@ -11,8 +11,8 @@
         <agent x="386" y="300" width="105" height="150" img="eras-tour.jpg" draggable="true"/>
     </page>
         <page background="ingresso_comprdo.jpeg">
-        <agent x="180" y="230" text="Parabéns!" color="white" font-size="35" on-touch="_NEXT_PAGE"/>
-        <agent x="0" y="480" text="Você ajudou o Vitor a comprar o seu ingresso." color="black" on-touch="_NEXT_PAGE"/>
+        <agent x="170" y="230" text="Parabéns!" color="white" font-size="35" on-touch="_NEXT_PAGE"/>
+        <agent x="150" y="200" text="Você ajudou o Vitor a comprar o seu ingresso." color="white" font-size="20" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="airport.jpg">
         <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
