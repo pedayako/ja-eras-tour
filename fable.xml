@@ -1,6 +1,6 @@
 <fable>
     <page background="quarto1.jpeg".jpg">
-        <agent x= y="300" text="compre" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="180" y="280" text="compre" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="50" y="280" text="seu ingresso" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="350" y="150" width="100" height="100" img="pixel-man.png" draggable="true"/>
         <agent x="405" y="333" width="88" height="150" img="eras-tour.jpg" draggable="true"/>
