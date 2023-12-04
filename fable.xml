@@ -15,12 +15,14 @@
         <agent x="100" y="200" text="Você comprou o ingresso :)" color="bisque" font-size="25" on-touch="_NEXT_PAGE"/>
         <agent x="140" y="88" text="Clique para continuar." color="bisque" font-size="20" on-touch="_NEXT_PAGE"/>
     </page>
-        </page>
+    
+    </page>
         <page background="aeroporto.jpeg">
         <agent x="168" y="230" text="Parabéns!" color="bisque" font-size="35" on-touch="_NEXT_PAGE"/>
         <agent x="100" y="200" text="Você comprou o ingresso :)" color="bisque" font-size="25" on-touch="_NEXT_PAGE"/>
         <agent x="140" y="88" text="Clique para continuar." color="bisque" font-size="20" on-touch="_NEXT_PAGE"/>
     </page>
+    
     <page background="airport.jpg">
         <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="170" y="60" width="100" height="100" img="pixel-man.png" draggable="true" on-drop="_NEXT_PAGE" on-zone="removido" on-trigger="removido">
