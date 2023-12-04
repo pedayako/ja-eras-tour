@@ -1,12 +1,12 @@
 <fable><page background="sala.jpeg".jpg">
         <agent x="180" y="370" text="Esse é o Vitor" color="red" font-size="15" on-touch="_NEXT_PAGE"/>
-        <agent x="180" y="350" text="E ele vai precisar da sua ajuda numa missão" color="red" font-size="11" on-touch="_NEXT_PAGE"/>
+        <agent x="180" y="350" text="E ele vai precisar da sua ajuda numa missão" color="red" font-size="14" on-touch="_NEXT_PAGE"/>
         <agent x="180" y="330" text="Clique aqui para continuar! "color="red" on-touch="_NEXT_PAGE"/>
         <agent x="350" y="150" width="150" height="200" img="pixel-man.png" draggable="true"/>
 
     </page>
     <page background="qaurto2.jpeg">
-        <agent x="180" y="280" text="compre" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="200" y="280" text="compre" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="170" y="250" text="seu ingresso" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="350" y="150" width="100" height="100" img="pixel-man.png" draggable="true"/>
         <agent x="405" y="333" width="88" height="150" img="eras-tour.jpg" draggable="true"/>
