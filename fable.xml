@@ -18,7 +18,7 @@
          <page background="aeroporto.jpeg">
         <agent x="145" y="410" text="Ajude o Vitor a Embarcar" color="white" font-size="20"/>
         <agent x="100" y="330" text="Você deverá arrastar o Vitor até o avião para decolar" color="white" font-size="20"/>
-             
+        <agent x="145" y="35" text="Clique aqui para prosseguir" color="black" font-size="20"/>
     </page>
     
     <page background="airport.jpg">
