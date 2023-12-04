@@ -10,11 +10,8 @@
         <agent x="209" y="250" text="seu ingresso" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="386" y="300" width="105" height="150" img="eras-tour.jpg" draggable="true"/>
     </page>
-        <page background="qaurto2.jpeg">
-        <agent x="0" y="480" text="clique na tela para comprar o ingresso" color="black" on-touch="_NEXT_PAGE"/>
-        <agent x="220" y="280" text="compre" color="white" on-touch="_NEXT_PAGE"/>
-        <agent x="209" y="250" text="seu ingresso" color="white" on-touch="_NEXT_PAGE"/>
-        <agent x="386" y="300" width="105" height="150" img="eras-tour.jpg" draggable="true"/>
+        <page background="ingresso_comprdo.jpeg">
+        <agent x="0" y="480" text="Para" color="black" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="airport.jpg">
         <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
