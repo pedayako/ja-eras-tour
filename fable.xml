@@ -57,6 +57,6 @@
     </page>
     <page background="palco.jpeg">
         <agent x="70" y="0" width="350" height="505" video="video-4.mp4" drop-zone="removido3"/>
-        <agent x="10" y="10" width="100" height="100" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
+        <agent x="250" y="10" width="35" height="35" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
     </page>
 </fable>
