@@ -8,7 +8,7 @@
     <page background="qaurto2.jpeg">
         <agent x="220" y="280" text="compre" color="white" on-touch="_NEXT_PAGE"/>
         <agent x="209" y="250" text="seu ingresso" color="white" on-touch="_NEXT_PAGE"/>
-        <agent x="380" y="310" width="88" height="150" img="eras-tour.jpg" draggable="true"/>
+        <agent x="390" y="300" width="10" height="150" img="eras-tour.jpg" draggable="true"/>
     </page>
     <page background="airport.jpg">
         <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
