@@ -51,7 +51,7 @@
         <agent x="375" y="0" width="140" text="Clique aqui para continuar!" color="white" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="show.jpg">
-        <agent x="380" y="100" width="0" height="50" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
+        <agent x="95" y="95" width="35" height="35" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
         <agent x="300" y="20" width="180" text="Você chegou ao show da Taylor Swift! Clique aqui para começar o show" color="white" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="palco.jpeg">
