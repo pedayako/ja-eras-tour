@@ -1,6 +1,6 @@
 <fable><page background="sala.jpeg".jpg">
-        <agent x="180" y="370" text="Esse é o Vitor" color="white" on-touch="_NEXT_PAGE"/>
-        <agent x="180" y="350" text="E ele vai precisar da sua ajuda numa missão" color="bl" on-touch="_NEXT_PAGE"/>
+        <agent x="180" y="370" text="Esse é o Vitor" color="red" on-touch="_NEXT_PAGE"/>
+        <agent x="180" y="350" text="E ele vai precisar da sua ajuda numa missão" color="red" on-touch="_NEXT_PAGE"/>
         <agent x="180" y="330" text="Clique aqui para continuar! "color= "black" on-touch="_NEXT_PAGE"/>
 
         <agent x="350" y="150" width="150" height="200" img="pixel-man.png" draggable="true"/>
