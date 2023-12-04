@@ -1,6 +1,44 @@
 <fable>
-	<page>
-  
-    
-  </page>
+    <page background="quarto.jpg">
+        <agent x="50" y="300" text="compre" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="50" y="280" text="seu ingresso" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="350" y="150" width="100" height="100" img="pixel-man.png" draggable="true"/>
+        <agent x="405" y="333" width="88" height="150" img="eras-tour.jpg" draggable="true"/>
+    </page>
+    <page background="airport.jpg">
+        <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="170" y="60" width="100" height="100" img="pixel-man.png" draggable="true" on-drop="_NEXT_PAGE" on-zone="removido" on-trigger="removido">
+            <removido x="-200"></removido>
+        </agent>
+        <agent x="280" y="260" width="50" height="70" img="seta.png" drop-zone="removido">
+            <removido x="-200"></removido>
+        </agent>
+    </page>
+    <page background="cristo.png">
+        <agent x="200" y="365" text="Você chegou ao Rio de Janeiro!" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="200" y="345" text="Clique aqui para continuar!" color="white" on-touch="_NEXT_PAGE"/>
+        <agent x="125" y="340" width="100" height="100" img="pixel-man.png" draggable="true"/>
+    </page>
+    <page background="nilton-santos.jpg">
+        <agent x="340" y="380" width="140" text="A cidade maravilhosa está muito quente, colete as garrafas de água para sobreviver na fila" color="white"/>
+        <agent x="10" y="10" width="100" height="100" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
+        <agent x="190" y="60" width="50" height="50" img="agua.png" draggable="true" on-drop="removido1" on-trigger="removido1">
+            <removido1 x="-200"></removido1>
+        </agent>
+        <agent x="300" y="120" width="50" height="50" img="agua.png" draggable="true" on-drop="removido2" on-trigger="removido2">
+            <removido2 x="-200"></removido2>
+        </agent>
+        <agent x="100" y="120" width="50" height="50" img="agua.png" draggable="true" on-drop="removido3" on-trigger="removido3">
+            <removido3 x="-200"></removido3>
+        </agent>
+        <agent x="375" y="0" width="140" text="Clique aqui para continuar!" color="white" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="show.jpg">
+        <agent x="10" y="10" width="100" height="100" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
+        <agent x="300" y="20" width="180" text="Você chegou ao show da Taylor Swift! Clique aqui para começar o show" color="white" on-touch="_NEXT_PAGE"/>
+    </page>
+    <page background="show.jpg">
+        <agent x="0" y="0" width="500" height="500" video="video-4.mp4" drop-zone="removido3"/>
+        <agent x="10" y="10" width="100" height="100" img="pixel-man.png" draggable="true" drop-zone="removido3"/>
+    </page>
 </fable>
