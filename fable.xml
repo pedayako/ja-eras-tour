@@ -13,7 +13,7 @@
         <page background="ingresso_comprdo.jpeg">
         <agent x="170" y="230" text="Parabéns!" color="white" font-size="35" on-touch="_NEXT_PAGE"/>
         <agent x="150" y="200" text="Você comprou o ingresso :)" color="white" font-size="25" on-touch="_NEXT_PAGE"/>
-        <agent x="150" y="200" text="Você comprou o ingresso :)" color="white" font-size="25" on-touch="_NEXT_PAGE"/>
+        <agent x="130" y="160" text="Clique para continuar." color="white" font-size="10" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="airport.jpg">
         <agent x="130" y="465" text="embarque no avião" color="white" on-touch="_NEXT_PAGE"/>
